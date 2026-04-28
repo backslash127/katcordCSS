@@ -1,5 +1,5 @@
 /* just consolidates all the other css files into one useable thing */
 
-@import url(/nonsenseCleanup.css);
-@import url(/fontSetting.css);
-@import url(/userStyles.css);
+@import "/nonsenseCleanup.css";
+@import "/fontSetting.css";
+@import "/userStyles.css";
