@@ -1,14 +1,11 @@
 /* sets the fonts.. of stuff. duh */
-
-@import url(/fonts/fonts.css);
-
-*
+* :not(.content_f75fb0, .content_f75fb0 *)
 {
 	font-family: "Days One" !important;
 }
 
 /* chatlog font */
-.content_f75fb0, .content_f75fb0 *
+.content_f75fb0, .content_f75fb0 > *
 {
-	font-family: "Courier Prime Code";
+	font-family: "Courier Prime Code" !important;
 }
