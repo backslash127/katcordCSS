@@ -5,8 +5,8 @@
 /* #region @backslash__ */
 [data-author-username="backslash__"] .messageContent_c19a55
 {
-    color: #9460a9;
-    font-family: "Days One";
+    color: #9460a9 !important;
+    font-family: "Days One" !important;
 }
 /* #endregion */
 
