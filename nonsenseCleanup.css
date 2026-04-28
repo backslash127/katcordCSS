@@ -1,0 +1,10 @@
+/* hides misc stuff that's entirely fucking useless */
+
+.chipletContainerInner__10651, /* guild tags */
+.newMemberBadge_f80704, /* new member tag */
+.wrapper__553bf, /* quests tab */
+.newBadge__4ed1a /* shop chip */
+/* slimy bitches made the entire sidebar die if you hide the whole shop button link so this is the most i could do */
+{
+	display: none !important;
+}

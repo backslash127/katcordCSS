@@ -1,0 +1,21 @@
+/* gives my awesome friends custom message styling */
+
+@import url(/fonts/fonts.css);
+
+/* #region @backslash__ */
+[data-author-username="backslash__"] .messageContent_c19a55
+{
+    color: #9460a9;
+    font-family: "Days One";
+}
+/* #endregion */
+
+/* #region @cubeston */
+/*
+[data-author-username="cubeston"] .messageContent_c19a55
+{
+    color: #8d96ff;
+    font-family: "Days One";
+}
+*/
+/* #endregion */
