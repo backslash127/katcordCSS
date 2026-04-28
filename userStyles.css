@@ -1,5 +1,7 @@
 /* gives specific users custom message styling */
 
+@import url("https://raw.githubusercontent.com/backslash127/katcordCSS/refs/heads/main/fonts/fonts.css");
+
 /* #region @backslash__ */
 [data-author-username="backslash__"] .messageContent_c19a55
 {
@@ -10,5 +12,18 @@
 [data-author-username="backslash__"] .username_c19a55
 {
         color: #9460a9 !important;
+}
+/* #endregion */
+
+/* #region @cubeston */
+[data-author-username="cubeston"] .messageContent_c19a55
+{
+    color: #8d96ff !important;
+    font-family: "Courier New" !important;
+}
+
+[data-author-username="cubeston"] .username_c19a55
+{
+        color: #8d96ff !important;
 }
 /* #endregion */
