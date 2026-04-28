@@ -1,7 +1,7 @@
 /* gives my awesome friends custom message styling */
 
 /* #region @backslash__ */
-[data-author-username="backslash__"] > .messageContent_c19a55
+[data-author-username="backslash__"] .messageContent_c19a55
 {
     color: #9460a9 !important;
     font-family: "Days One" !important;

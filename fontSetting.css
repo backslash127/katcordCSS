@@ -1,5 +1,5 @@
 /* sets the fonts.. of stuff. duh */
-* :not(.content_f75fb0, .content_f75fb0 > *)
+* :not(.content_f75fb0, .content_f75fb0 *)
 {
 	font-family: "Days One" !important;
 }
