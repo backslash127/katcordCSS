@@ -1,5 +1,7 @@
 /* sets the fonts.. of stuff. duh */
 
+@import url(/fonts/fonts.css);
+
 *
 {
 	font-family: "Days One" !important;
