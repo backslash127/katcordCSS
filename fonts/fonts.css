@@ -7,3 +7,24 @@
     font-style: normal;
 }
 /* #endregion */
+
+/* #region : Courier New */
+@font-face {
+    font-family: "Courier New";
+    src: url("https://raw.githubusercontent.com/backslash127/katcordCSS/refs/heads/main/fonts/CourierNew.ttf");
+
+    font-weight: normal;
+    font-style: normal;
+}
+/* #endregion */
+
+
+/* #region : Papyrus */
+@font-face {
+    font-family: "Papyrus";
+    src: url("https://raw.githubusercontent.com/backslash127/katcordCSS/refs/heads/main/fonts/Papyrus.ttf");
+
+    font-weight: normal;
+    font-style: normal;
+}
+/* #endregion */

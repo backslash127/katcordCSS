@@ -3,7 +3,8 @@
 @import url("https://raw.githubusercontent.com/backslash127/katcordCSS/refs/heads/main/fonts/fonts.css");
 
 /* #region @backslash__ */
-[data-author-username="backslash__"] .messageContent_c19a55
+[data-author-username="backslash__"] .messageContent_c19a55,
+[data-author-id="467507791553101845"] .messageContent_c19a55
 {
     color: #9460a9 !important;
     font-family: "Days One" !important;
@@ -11,14 +12,16 @@
     font-style: normal;
 }
 
-[data-author-username="backslash__"] .username_c19a55
+[data-author-username="backslash__"] .username_c19a55,
+[data-author-id="467507791553101845"] .username_c19a55
 {
     color: #9460a9 !important;
 }
 /* #endregion */
 
 /* #region @cubeston */
-[data-author-username="cubeston"] .messageContent_c19a55
+[data-author-username="cubeston"] .messageContent_c19a55,
+[data-author-id="497166558678876160"] .messageContent_c19a55
 {
     color: #8d96ff !important;
     font-family: "Courier New" !important;
@@ -26,8 +29,26 @@
     font-style: normal;
 }
 
-[data-author-username="cubeston"] .username_c19a55
+[data-author-username="cubeston"] .username_c19a55,
+[data-author-id="497166558678876160"] .username_c19a55
 {
     color: #8d96ff !important;
+}
+/* #endregion */
+
+/* #region @csom_ */
+[data-author-username="csom_"] .messageContent_c19a55,
+[data-author-id="525782036498350083"] .messageContent_c19a55
+{
+    color: #f1c40f !important;
+    font-family: "Papyrus" !important;
+    font-weight: normal;
+    font-style: normal;
+}
+
+[data-author-username="csom_"] .username_c19a55,
+[data-author-id="525782036498350083"] .username_c19a55
+{
+    color: #f1c40f !important;
 }
 /* #endregion */
