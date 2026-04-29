@@ -7,11 +7,13 @@
 {
     color: #9460a9 !important;
     font-family: "Days One" !important;
+    font-weight: normal;
+    font-style: normal;
 }
 
 [data-author-username="backslash__"] .username_c19a55
 {
-        color: #9460a9 !important;
+    color: #9460a9 !important;
 }
 /* #endregion */
 
@@ -20,10 +22,12 @@
 {
     color: #8d96ff !important;
     font-family: "Courier New" !important;
+    font-weight: bold;
+    font-style: normal;
 }
 
 [data-author-username="cubeston"] .username_c19a55
 {
-        color: #8d96ff !important;
+    color: #8d96ff !important;
 }
 /* #endregion */
