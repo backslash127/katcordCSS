@@ -1,22 +1,60 @@
-/* gives specific users custom message styling */
+/* gives specific users custom styling on their messages */
 
 @import url("https://raw.githubusercontent.com/backslash127/katcordCSS/refs/heads/main/fonts/fonts.css");
 
-/* #region @backslash__ */
-[data-author-username="backslash__"] .messageContent_c19a55,
-[data-author-id="467507791553101845"] .messageContent_c19a55
-{
-    color: #9460a9;
-    font-family: "Days One";
+/* #region : @backslash__ */
+    [data-author-username="backslash__"] .messageContent_c19a55,
+    [data-author-id="467507791553101845"] .messageContent_c19a55
+    {
+        color: #9460a9;
+        font-family: "Days One";
 
-    font-size: unset;
-    font-weight: normal;
-    font-style: normal;
-}
+        font-size: unset;
+        font-weight: normal;
+        font-style: normal;
+    }
 
-[data-author-username="backslash__"] .username_c19a55,
-[data-author-id="467507791553101845"] .username_c19a55
-{
-    color: #9460a9;
-}
+    [data-author-username="backslash__"] .username_c19a55,
+    [data-author-id="467507791553101845"] .username_c19a55
+    {
+        color: #9460a9;
+    }
+/* #endregion */
+
+/* #region : @cubeston */
+    [data-author-username="crabbruh"] .messageContent_c19a55,
+    [data-author-id="497166558678876160"] .messageContent_c19a55
+    {
+        color: #8d96ff;
+        font-family: "Courier New";
+
+        font-size: unset;
+        font-weight: bold;
+        font-style: normal;
+    }
+
+    [data-author-username="crabbruh"] .username_c19a55,
+    [data-author-id="497166558678876160"] .username_c19a55
+    {
+        color: #8d96ff;
+    }
+/* #endregion */
+
+/* #region : @moltenplastique */
+    [data-author-username="moltenplastique"] .messageContent_c19a55,
+    [data-author-id="710232520913977444"] .messageContent_c19a55
+    {
+        color: #5500ff;
+        font-family: "Comic Sans MS";
+
+        font-size: unset;
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    [data-author-username="moltenplastique"] .username_c19a55,
+    [data-author-id="710232520913977444"] .username_c19a55
+    {
+        color: #5500ff;
+    }
 /* #endregion */

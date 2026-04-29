@@ -1,13 +1,19 @@
 @import url("https://raw.githubusercontent.com/backslash127/katcordCSS/refs/heads/main/fonts/fonts.css");
 
 /* sets the fonts.. of stuff. duh */
-* :not(.content_f75fb0, .content_f75fb0 *)
+* :not(.content_f75fb0, .content_f75fb0 *, .chatContent_f75fb0, .chatContent_f75fb0 *)
 {
-	font-family: "Days One" !important;
+	font-family: "Days One";
 }
 
 /* chatlog font */
-.content_f75fb0, .content_f75fb0 > *
+.content_f75fb0, .content_f75fb0 > *, .chatContent_f75fb0, .chatContent_f75fb0 > *
 {
-	font-family: "Courier Prime Code" !important;
+	font-family: "Courier Prime Code";
+}
+
+/* reply preview */
+.repliedTextContent_c19a55
+{
+    font-family: inherit !important;
 }

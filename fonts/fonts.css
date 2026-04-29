@@ -1,30 +1,39 @@
 /* #region : Days One */
-@font-face {
-    font-family: "Days One";
-    src: url("https://raw.githubusercontent.com/backslash127/katcordCSS/refs/heads/main/fonts/DaysOne-Regular.ttf");
+    @font-face {
+        font-family: "Days One";
+        src: url("https://raw.githubusercontent.com/backslash127/katcordCSS/refs/heads/main/fonts/DaysOne-Regular.ttf");
 
-    font-weight: normal;
-    font-style: normal;
-}
+        font-weight: normal;
+        font-style: normal;
+    }
 /* #endregion */
 
 /* #region : Courier New */
-@font-face {
-    font-family: "Courier New";
-    src: url("https://raw.githubusercontent.com/backslash127/katcordCSS/refs/heads/main/fonts/CourierNew.ttf");
+    @font-face {
+        font-family: "Courier New";
+        src: url("https://raw.githubusercontent.com/backslash127/katcordCSS/refs/heads/main/fonts/CourierNew.ttf");
 
-    font-weight: normal;
-    font-style: normal;
-}
+        font-weight: normal;
+        font-style: normal;
+    }
 /* #endregion */
 
-
 /* #region : Papyrus */
-@font-face {
-    font-family: "Papyrus";
-    src: url("https://raw.githubusercontent.com/backslash127/katcordCSS/refs/heads/main/fonts/Papyrus.ttf");
+    @font-face {
+        font-family: "Papyrus";
+        src: url("https://raw.githubusercontent.com/backslash127/katcordCSS/refs/heads/main/fonts/Papyrus.ttf");
 
-    font-weight: normal;
-    font-style: normal;
-}
+        font-weight: normal;
+        font-style: normal;
+    }
+/* #endregion */
+
+/* #region : Comic Sans MS */
+    @font-face {
+        font-family: "Comic Sans MS";
+        src: url("https://raw.githubusercontent.com/backslash127/katcordCSS/refs/heads/main/fonts/ComicSansMS.ttf");
+
+        font-weight: normal;
+        font-style: normal;
+    }
 /* #endregion */
