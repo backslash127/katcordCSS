@@ -38,10 +38,10 @@
     }
 /* #endregion */
 
-/* #region : Rock Salt */
+/* #region : DOS VGA 437 */
     @font-face {
-        font-family: "Rock Salt";
-        src: url("https://raw.githubusercontent.com/backslash127/katcordCSS/refs/heads/main/fonts/RockSalt.ttf");
+        font-family: "DOS VGA 437";
+        src: url("https://raw.githubusercontent.com/backslash127/katcordCSS/refs/heads/main/fonts/DOSVGA.ttf");
 
         font-weight: normal;
         font-style: normal;
