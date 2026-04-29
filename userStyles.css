@@ -77,3 +77,20 @@
         color: #7715ff;
     }
 /* #endregion */
+
+/* #region : reply previews */
+.repliedMessage_c19a55 .repliedTextContent_c19a55
+{
+    color: inherit !important;
+    font-family: inherit !important;
+
+    font-size: inherit !important;
+    font-weight: inherit !important;
+    font-style: inherit !important;
+}
+
+.repliedMessage_c19a55 .username_c19a55
+{
+    color: inherit;
+}
+/* #endregion */
