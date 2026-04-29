@@ -40,21 +40,40 @@
     }
 /* #endregion */
 
+/* #region : @csom_ */
+    [data-author-username="csom_"] .messageContent_c19a55,
+    [data-author-id="525782036498350083"] .messageContent_c19a55
+    {
+        color: #f1c40f;
+        font-family: "VCR OSD Mono";
+
+        font-size: unset;
+        font-weight: bold;
+        font-style: normal;
+    }
+
+    [data-author-username="csom_"] .username_c19a55,
+    [data-author-id="525782036498350083"] .username_c19a55
+    {
+        color: #f1c40f;
+    }
+/* #endregion */
+
 /* #region : @moltenplastique */
     [data-author-username="moltenplastique"] .messageContent_c19a55,
     [data-author-id="710232520913977444"] .messageContent_c19a55
     {
-        color: #5500ff;
+        color: #7715ff;
         font-family: "Comic Sans MS";
 
         font-size: unset;
-        font-weight: normal;
+        font-weight: bold;
         font-style: normal;
     }
 
     [data-author-username="moltenplastique"] .username_c19a55,
     [data-author-id="710232520913977444"] .username_c19a55
     {
-        color: #5500ff;
+        color: #7715ff;
     }
 /* #endregion */

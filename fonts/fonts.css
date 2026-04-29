@@ -18,10 +18,10 @@
     }
 /* #endregion */
 
-/* #region : Papyrus */
+/* #region : VCR OSD Mono */
     @font-face {
-        font-family: "Papyrus";
-        src: url("https://raw.githubusercontent.com/backslash127/katcordCSS/refs/heads/main/fonts/Papyrus.ttf");
+        font-family: "VCR OSD Mono";
+        src: url("https://raw.githubusercontent.com/backslash127/katcordCSS/refs/heads/main/fonts/VCR-OSD-Mono.ttf");
 
         font-weight: normal;
         font-style: normal;
