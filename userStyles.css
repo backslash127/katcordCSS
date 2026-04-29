@@ -6,8 +6,8 @@
 [data-author-username="backslash__"] .messageContent_c19a55,
 [data-author-id="467507791553101845"] .messageContent_c19a55
 {
-    color: #9460a9 !important;
-    font-family: "Days One" !important;
+    color: #9460a9;
+    font-family: "Days One";
 
     font-size: unset;
     font-weight: normal;
@@ -17,6 +17,6 @@
 [data-author-username="backslash__"] .username_c19a55,
 [data-author-id="467507791553101845"] .username_c19a55
 {
-    color: #9460a9 !important;
+    color: #9460a9;
 }
 /* #endregion */
