@@ -78,19 +78,38 @@
     }
 /* #endregion */
 
+/* #region : @pylon_2 */
+    [data-author-username="pylon_2"] .messageContent_c19a55,
+    [data-author-id="446866490940194846"] .messageContent_c19a55
+    {
+        color: #0e6946;
+        font-family: "Rock Salt";
+
+        font-size: unset;
+        font-weight: bold;
+        font-style: normal;
+    }
+
+    [data-author-username="pylon_2"] .username_c19a55,
+    [data-author-id="446866490940194846"] .username_c19a55
+    {
+        color: #0e6946;
+    }
+/* #endregion */
+
 /* #region : reply previews */
-.repliedMessage_c19a55 .repliedTextContent_c19a55
-{
-    color: inherit !important;
-    font-family: inherit !important;
+    .repliedMessage_c19a55 .repliedTextContent_c19a55
+    {
+        color: inherit !important;
+        font-family: inherit !important;
 
-    font-size: inherit !important;
-    font-weight: inherit !important;
-    font-style: inherit !important;
-}
+        font-size: inherit !important;
+        font-weight: inherit !important;
+        font-style: inherit !important;
+    }
 
-.repliedMessage_c19a55 .username_c19a55
-{
-    color: inherit;
-}
+    .repliedMessage_c19a55 .username_c19a55
+    {
+        color: inherit;
+    }
 /* #endregion */

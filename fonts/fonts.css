@@ -37,3 +37,13 @@
         font-style: normal;
     }
 /* #endregion */
+
+/* #region : Rock Salt */
+    @font-face {
+        font-family: "Rock Salt";
+        src: url("https://raw.githubusercontent.com/backslash127/katcordCSS/refs/heads/main/fonts/RockSalt.ttf");
+
+        font-weight: normal;
+        font-style: normal;
+    }
+/* #endregion */
