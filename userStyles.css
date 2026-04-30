@@ -21,6 +21,25 @@
     }
 /* #endregion */
 
+/* #region : @nova6607 */
+    [data-author-username="nova6607"] .messageContent_c19a55,
+    [data-author-id="735608770155118753"] .messageContent_c19a55
+    {
+        color: #ff023e;
+        font-family: "VCR OSD Mono";
+
+        font-size: unset;
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    [data-author-username="nova6607"] .username_c19a55:not(.repliedMessage_c19a55 .username_c19a55),
+    [data-author-id="735608770155118753"] .username_c19a55:not(.repliedMessage_c19a55 .username_c19a55)
+    {
+        color: #ff023e;
+    }
+/* #endregion */
+
 /* #region : @cubeston */
     [data-author-username="crabbruh"] .messageContent_c19a55,
     [data-author-id="497166558678876160"] .messageContent_c19a55
