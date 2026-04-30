@@ -39,9 +39,21 @@
 /* #endregion */
 
 /* #region : DOS VGA 437 */
+
     @font-face {
         font-family: "DOS VGA 437";
         src: url("https://raw.githubusercontent.com/backslash127/katcordCSS/refs/heads/main/fonts/DOSVGA.ttf");
+
+        font-weight: normal;
+        font-style: normal;
+    }
+/* #endregion */
+
+/* #region : Cascadia Code */
+
+    @font-face {
+        font-family: "Cascadia Code";
+        src: url("https://raw.githubusercontent.com/backslash127/katcordCSS/refs/heads/main/fonts/CascadiaCode.ttf");
 
         font-weight: normal;
         font-style: normal;
