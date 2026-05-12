@@ -116,6 +116,25 @@
     }
 /* #endregion */
 
+/* #region : @filedotrin */
+    [data-author-username="filedotrin"] .messageContent_c19a55,
+    [data-author-id="521036882155405323"] .messageContent_c19a55
+    {
+        color: #d5b6e5;
+        font-family: inherit;
+
+        font-size: unset;
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    [data-author-username="filedotrin"] .username_c19a55:not(.repliedMessage_c19a55 .username_c19a55),
+    [data-author-id="521036882155405323"] .username_c19a55:not(.repliedMessage_c19a55 .username_c19a55)
+    {
+        color: #d5b6e5;
+    }
+/* #endregion */
+
 /* #region : reply previews */
     .repliedMessage_c19a55 .repliedTextContent_c19a55
     {
