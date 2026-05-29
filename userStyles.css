@@ -135,6 +135,25 @@
     }
 /* #endregion */
 
+/* #region : @linedpaper */
+    [data-author-username="linedpaper"] .messageContent_c19a55,
+    [data-author-id="178619011825664000"] .messageContent_c19a55
+    {
+        color: #ff8eb3;
+        font-family: "Mochiy Pop One";
+
+        font-size: unset;
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    [data-author-username="linedpaper"] .username_c19a55:not(.repliedMessage_c19a55 .username_c19a55),
+    [data-author-id="178619011825664000"] .username_c19a55:not(.repliedMessage_c19a55 .username_c19a55)
+    {
+        color: #ff8eb3;
+    }
+/* #endregion */
+
 /* #region : reply previews */
     .repliedMessage_c19a55 .repliedTextContent_c19a55
     {
