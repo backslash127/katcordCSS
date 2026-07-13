@@ -154,6 +154,25 @@
     }
 /* #endregion */
 
+/* #region : nectargoesbloom */
+    [data-author-username="nectargoesbloom"] .messageContent_c19a55,
+    [data-author-id="1008232892264099870"] .messageContent_c19a55
+    {
+        color: #4ac925;
+        font-family: "Courier New";
+
+        font-size: unset;
+        font-weight: bold;
+        font-style: normal;
+    }
+
+    [data-author-username="nectargoesbloom"] .username_c19a55:not(.repliedMessage_c19a55 .username_c19a55),
+    [data-author-id="1008232892264099870"] .username_c19a55:not(.repliedMessage_c19a55 .username_c19a55)
+    {
+        color: #4ac925;
+    }
+/* #endregion */
+
 /* #region : reply previews */
     .repliedMessage_c19a55 .repliedTextContent_c19a55
     {
